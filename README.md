@@ -22,7 +22,27 @@
 3. Откройте python notebook в IDE с поддержкой ipynb
 
 ## Как запустить приложение
-Запустите []()  локально 
+Запустите [main.exe](https://drive.google.com/file/d/1UndFk1w7aPEIFuiD803hdAkrekfOhI33/view?usp=share_link)  локально 
 1. Скачайте main.exe
 2. Запустите приложение с компьютера, на котором есть доступ в интернет
+
+Загрузка приложения занимает около 10-20 секунд
+После загрузки пользователю открывается окно для ввода данных
+![image](https://github.com/yourmaggie/VKR-corpus-linguistics/assets/92755605/317697be-4c9d-4050-9790-36e1ab5d5daa)
+Пользователю необходимо выбрать файл произведения, язык на котором оно написано и год публикации
+
+В поле выбора количества слов вводится количество, которое нужно для формирования списка топ самых популярных и самых непопулярных слов
+
+![image](https://github.com/yourmaggie/VKR-corpus-linguistics/assets/92755605/fe08c13f-581a-4a76-a910-b782fe2c2997)
+
+Как выглядят поля выбора
+![image](https://github.com/yourmaggie/VKR-corpus-linguistics/assets/92755605/8529fd8f-de2b-4b85-9a32-c99e5d808f9c)
+![image](https://github.com/yourmaggie/VKR-corpus-linguistics/assets/92755605/52546f24-5c39-4bfb-b039-6ab7d8544166)
+
+Результаты выполнения программы
+![image](https://github.com/yourmaggie/VKR-corpus-linguistics/assets/92755605/f01ed97b-f80e-49fa-9e28-7fc4074868cb)
+![image](https://github.com/yourmaggie/VKR-corpus-linguistics/assets/92755605/0054508d-a14d-4baa-8b16-1a3676f691b6)
+
+
+
 
