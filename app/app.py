@@ -18,7 +18,7 @@ def compute(doc, lang, year):
 
 
 def app():
-	st.write("# Analyzer of word frequencies")
+	st.write("# Text analyzer")
 
 	with st.form("input_form"):
 		selected_doc = st.file_uploader('Upload the text', type=['pdf'])
