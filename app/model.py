@@ -31,6 +31,7 @@ from sentence_transformers import SentenceTransformer
 ## Предобработка текста
 
 nltk.download('punkt')
+nltk.download('stopwords')
 spec_chars = string.punctuation + '\n\xa0«»\t—'
 
 
