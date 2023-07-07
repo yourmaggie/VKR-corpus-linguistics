@@ -11,6 +11,7 @@ import es_core_news_sm
 import fr_core_news_sm
 import matplotlib.pyplot as plt
 import matplotx
+import nltk
 import numpy as np
 import pandas as pd
 import razdel
