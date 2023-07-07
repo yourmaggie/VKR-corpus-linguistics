@@ -29,6 +29,7 @@ from sentence_transformers import SentenceTransformer
 
 ## Предобработка текста
 
+nltk.download('punkt')
 spec_chars = string.punctuation + '\n\xa0«»\t—'
 
 
